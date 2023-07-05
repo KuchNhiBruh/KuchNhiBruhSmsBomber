@@ -1,8 +1,8 @@
 Made By @KuchNhiBruh
 
 Before Running Script 🙌
-use These Commands For Termux =>
-pip install requests 
-pip install colorama 
-pip install tqdm 
+Use These Commands For Termux =>
+1)pip install requests 
+2) pip install colorama 
+3)pip install tqdm 
 
